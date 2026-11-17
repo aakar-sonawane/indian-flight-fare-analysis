@@ -2,7 +2,7 @@
 
 Exploratory data analysis (EDA) and baseline regression models on 300,153 Indian domestic flight tickets, to understand what drives ticket prices and to predict the fare.
 
-**Author:** Parth Dixit (Roll No. 28, LY CSE-AIML, Batch B2), Bharati Vidyapeeth (Deemed to be University), Kharghar, Navi Mumbai
+
 **Programme:** Training Central - Artificial Intelligence (October 2026 Batch)
 
 ## Overview
